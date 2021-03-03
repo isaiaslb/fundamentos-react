@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'RobotoMono';
+    src: url('./fonts/Roboto-Thin.ttf')
+}
+
+* {
+    font-family: 'RobotoMono', monospace;
+}
